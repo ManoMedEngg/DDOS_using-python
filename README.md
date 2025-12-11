@@ -41,21 +41,21 @@ Choose your operating system below to get started.
 The native environment for security testing.
 
 1.  **Update your package list:**
-    sudo apt update && sudo apt upgrade -y
+    `sudo apt update && sudo apt upgrade -y`
     
 2.  **Install Git and Python:**
-    sudo apt install git python3 python3-pip -y
+    `sudo apt install git python3 python3-pip -y`
     
 3.  **Clone the repository:**
-    git clone [https://github.com/ManoMedEngg/DDOS_using-python.git](https://github.com/ManoMedEngg/DDOS_using-python.git)
+    `git clone [https://github.com/ManoMedEngg/DDOS_using-python.git](https://github.com/ManoMedEngg/DDOS_using-python.git)`
     
 4.  **Enter directory and install requirements:**
-    cd DDOS_using-python
+    `cd DDOS_using-python`
 
     pip3 install -r requirements.txt
     
 5.  **Run:**
-    python2 main.py
+    `python2 main.py`
     
 
 ### 📱 Termux (Android)
@@ -63,21 +63,21 @@ The native environment for security testing.
 For testing on the go.
 
 1.  **Update Termux:**
-    pkg update && pkg upgrade -y
+    `pkg update && pkg upgrade -y`
     
 2.  **Install dependencies:**
-    pkg install git python -y
+    `pkg install git python -y`
     
 3.  **Clone the repository:**
-    git clone [https://github.com/ManoMedEngg/DDOS_using-python.git](https://github.com/ManoMedEngg/DDOS_using-python.git)
+    `git clone [https://github.com/ManoMedEngg/DDOS_using-python.git](https://github.com/ManoMedEngg/DDOS_using-python.git)`
     
 4.  **Navigate and Install:**
-    cd DDOS_using-python
+    `cd DDOS_using-python`
 
     pip install -r requirements.txt
     
 5.  **Run:**
-    python main.py
+    `python main.py`
     
 
 ### 🪟 Windows
