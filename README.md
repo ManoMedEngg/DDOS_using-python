@@ -47,7 +47,7 @@ The native environment for security testing.
     sudo apt install git python3 python3-pip -y
     
 3.  **Clone the repository:**
-    git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
+    git clone [https://github.com/ManoMedEngg/DDOS_using-python.git](https://github.com/ManoMedEngg/DDOS_using-python.git)
     
 4.  **Enter directory and install requirements:**
     cd REPO_NAME
@@ -68,7 +68,7 @@ For testing on the go.
     pkg install git python -y
     
 3.  **Clone the repository:**
-    git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
+    git clone [https://github.com/ManoMedEngg/DDOS_using-python.git](https://github.com/ManoMedEngg/DDOS_using-python.git)
     
 4.  **Navigate and Install:**
     cd REPO_NAME
