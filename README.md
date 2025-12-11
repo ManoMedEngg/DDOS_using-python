@@ -31,6 +31,14 @@ Before installing, ensure you have the following environments set up. This tool 
 * **Internet Connection** (For dependency installation)
 * **Root/Administrator Privileges** (Required for network manipulation)
 
+## 👁️ N-map & Ip Address
+
+Before doning attack make sure wich ports are open and which port have a vulnerability usig N-map.
+N-map is a tool which is use to scan the network of the device via ip address/ domin of the website. 
+`nmap -A [ipaddress or domin name]`
+
+-A is scan the Network in Aggression mode the can fine the all open ports, IP address, OS, etc,...
+
 
 ## ⚙️ Installation Guide
 
