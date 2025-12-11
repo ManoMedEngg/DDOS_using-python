@@ -50,7 +50,8 @@ The native environment for security testing.
     git clone [https://github.com/ManoMedEngg/DDOS_using-python.git](https://github.com/ManoMedEngg/DDOS_using-python.git)
     
 4.  **Enter directory and install requirements:**
-    cd REPO_NAME
+    cd DDOS_using-python
+
     pip3 install -r requirements.txt
     
 5.  **Run:**
@@ -71,7 +72,8 @@ For testing on the go.
     git clone [https://github.com/ManoMedEngg/DDOS_using-python.git](https://github.com/ManoMedEngg/DDOS_using-python.git)
     
 4.  **Navigate and Install:**
-    cd REPO_NAME
+    cd DDOS_using-python
+
     pip install -r requirements.txt
     
 5.  **Run:**
@@ -86,7 +88,7 @@ For testing on the go.
     * Extract the ZIP file to your desktop.
 3.  **Open Terminal:**
     * Open `cmd` or PowerShell.
-    * Navigate to the folder: `cd Desktop/REPO_NAME`
+    * Navigate to the folder: `cd Desktop/DDOS_using-python`
 4.  **Install Requirements:**
     cmd
     pip install -r requirements.txt
