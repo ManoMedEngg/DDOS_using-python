@@ -26,7 +26,7 @@ Attackers flood a network with malicious traffic, overwhelming the servers so le
 
 Before installing, ensure you have the following environments set up. This tool is lightweight but requires standard libraries.
 
-* **Python 3.x** (Essential for running the scripts)
+* **Python 2.x** (Essential for running the scripts)
 * **Git** (To clone the repository)
 * **Internet Connection** (For dependency installation)
 * **Root/Administrator Privileges** (Required for network manipulation)
@@ -55,7 +55,7 @@ The native environment for security testing.
     pip3 install -r requirements.txt
     
 5.  **Run:**
-    python3 main.py
+    python2 main.py
     
 
 ### 📱 Termux (Android)
